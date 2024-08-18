@@ -1,0 +1,499 @@
+source,target
+"Fetch all records from May 2024, ensure the IP address is ""192.168.1.1""",Month of year: May | Year: 2024 | IP address: 192.168.1.1
+"Fetch all records from December 2022, ensure the IP address is ""::1""",Month of year: December | Year: 2022 | IP address: ::1
+"Get every log of ""dashboard/"" accessed on 06 December.",Day of month: 06 | Month of year: December | Visited page: dashboard/
+"Get every log of ""index.html"" accessed on 02 November.",Day of month: 02 | Month of year: November | Visited page: index.html
+"What was accessed on 18 April from IP ""::1""?",Day of month: 18 | Month of year: April | IP address: ::1
+"Find all records from January 2023 related to ""dashboard/"".",Month of year: January | Year: 2023 | Visited page: dashboard/
+"Search all data for ""contact"" and IP ""10.0.0.1"".",IP address: 10.0.0.1 | Visited page: contact
+"Retrieve details for IP ""10.0.0.1"" who accessed ""dashboard/"".",IP address: 10.0.0.1 | Visited page: dashboard/
+"Find all records from March 2023 related to ""api/data"".",Month of year: March | Year: 2023 | Visited page: api/data
+"What was accessed on 19 November from IP ""10.0.0.1""?",Day of month: 19 | Month of year: November | IP address: 10.0.0.1
+"Get every log of ""index.html"" accessed on 25 February.",Day of month: 25 | Month of year: February | Visited page: index.html
+"Collect all logs from ""contact"" with a specific IP: ""203.0.113.5"".",IP address: 203.0.113.5 | Visited page: contact
+"Get every log of ""home"" accessed on 30 August.",Day of month: 30 | Month of year: August | Visited page: home
+"Gather logs from 01 January with focus on ""login"".",Day of month: 01 | Month of year: January | Visited page: login
+"Retrieve data for all users on 02 March, focusing on ""contact"".",Day of month: 02 | Month of year: March | Visited page: contact
+"Gather everything from Jun, ensure the visited page is ""index.html""",Month of year: Jun | Visited page: index.html
+"Search for records of the page ""api/data"" on 09 December, 2022.",Day of month: 09 | Month of year: December | Year: 2022 | Visited page: api/data
+"Collect all logs from ""dashboard/"" with a specific IP: ""172.16.0.1"".",IP address: 172.16.0.1 | Visited page: dashboard/
+"Look up activities on 20 August 2024 for the page ""contact"".",Day of month: 20 | Month of year: August | Year: 2024 | Visited page: contact
+Find all entries for login visited on 08 June.,Day of month: 08 | Month of year: June | Visited page: login
+Find records for contact on 13 September.,Day of month: 13 | Month of year: September | Visited page: contact
+"Fetch all records from May 2023, ensure the IP address is ""192.168.1.1""",Month of year: May | Year: 2023 | IP address: 192.168.1.1
+"Check the records for the IP ""10.0.0.1"" on 28 February.",Day of month: 28 | Month of year: February | IP address: 10.0.0.1
+"List all activities for 02 Aug with IP ""172.16.0.1"".",Day of month: 02 | Month of year: Aug | IP address: 172.16.0.1
+"What activities were recorded for IP ""192.168.1.1""?",IP address: 192.168.1.1
+"Gather everything from Nov, ensure the visited page is ""dashboard/""",Month of year: Nov | Visited page: dashboard/
+"Get me every data from the ""about"" page.",Visited page: about
+"Look up all data for ""10.0.0.1"" on the page ""login"".",IP address: 10.0.0.1 | Visited page: login
+"Give me details of users who visited ""index.html"" on 09 May, 2024.",Day of month: 09 | Month of year: May | Year: 2024 | Visited page: index.html
+"Get every log of ""index.html"" accessed on 02 December.",Day of month: 02 | Month of year: December | Visited page: index.html
+"List all logs related to ""index.html"" and IP ""10.0.0.1"".",IP address: 10.0.0.1 | Visited page: index.html
+"Get all entries related to the ""api/data"" page.",Visited page: api/data
+"Retrieve data for all users on 01 November, focusing on ""dashboard/"".",Day of month: 01 | Month of year: November | Visited page: dashboard/
+"Find all records from August 2024 related to ""dashboard/"".",Month of year: August | Year: 2024 | Visited page: dashboard/
+"Retrieve all user data from 15 May, with IP address: ""10.0.0.1""",Day of month: 15 | Month of year: May | IP address: 10.0.0.1
+"Compile logs for ""api/data"" accessed on 11 October.",Day of month: 11 | Month of year: October | Visited page: api/data
+"List all activities for 21 Apr with IP ""203.0.113.5"".",Day of month: 21 | Month of year: Apr | IP address: 203.0.113.5
+"Find all records from December 2024 related to ""about"".",Month of year: December | Year: 2024 | Visited page: about
+Find records for index.html on 20 July.,Day of month: 20 | Month of year: July | Visited page: index.html
+"Get me every data from the ""index.html"" page.",Visited page: index.html
+"What pages were visited by ""192.168.1.1"" on 06 August?",Day of month: 06 | Month of year: August | IP address: 192.168.1.1
+"Compile logs for ""about"" accessed on 18 May.",Day of month: 18 | Month of year: May | Visited page: about
+"Search for everything from January with the page ""api/data"".",Month of year: January | Visited page: api/data
+"Show me all logs for IP ""::1"" and page ""index.html"".",IP address: ::1 | Visited page: index.html
+"Retrieve details for IP ""172.16.0.1"" who accessed ""about"".",IP address: 172.16.0.1 | Visited page: about
+"Gather logs from 05 October with focus on ""about"".",Day of month: 05 | Month of year: October | Visited page: about
+Find records for login on 29 July.,Day of month: 29 | Month of year: July | Visited page: login
+"Retrieve details for IP ""::1"" who accessed ""contact"".",IP address: ::1 | Visited page: contact
+"Provide details of users who visited ""home"" on 21 April, 2022.",Day of month: 21 | Month of year: April | Year: 2022 | Visited page: home
+"Search for records of the page ""about"" on 06 January, 2024.",Day of month: 06 | Month of year: January | Year: 2024 | Visited page: about
+"Get all entries related to the ""dashboard/"" page.",Visited page: dashboard/
+"Find all records from July 2022 related to ""index.html"".",Month of year: July | Year: 2022 | Visited page: index.html
+"Get all entries related to the ""api/data"" page.",Visited page: api/data
+"What activities were recorded for IP ""203.0.113.5""?",IP address: 203.0.113.5
+"Gather everything from Jun, ensure the visited page is ""dashboard/""",Month of year: Jun | Visited page: dashboard/
+"Gather logs from 08 June with focus on ""contact"".",Day of month: 08 | Month of year: June | Visited page: contact
+"Extract data for IP address ""10.0.0.1"" on 05 June.",Day of month: 05 | Month of year: June | IP address: 10.0.0.1
+"Get every log of ""contact"" accessed on 02 May.",Day of month: 02 | Month of year: May | Visited page: contact
+"Gather everything from Aug, ensure the visited page is ""about""",Month of year: Aug | Visited page: about
+"Get every log of ""index.html"" accessed on 20 December.",Day of month: 20 | Month of year: December | Visited page: index.html
+"Find all records from February 2023 related to ""home"".",Month of year: February | Year: 2023 | Visited page: home
+"List all logs related to ""index.html"" and IP ""::1"".",IP address: ::1 | Visited page: index.html
+"Retrieve details for IP ""::1"" who accessed ""contact"".",IP address: ::1 | Visited page: contact
+Find records for about on 01 September.,Day of month: 01 | Month of year: September | Visited page: about
+"Extract data for IP address ""172.16.0.1"" on 18 September.",Day of month: 18 | Month of year: September | IP address: 172.16.0.1
+"What pages were visited by ""203.0.113.5"" on 05 April?",Day of month: 05 | Month of year: April | IP address: 203.0.113.5
+"What activities were recorded for IP ""::1""?",IP address: ::1
+"Fetch all records from February 2022, ensure the IP address is ""::1""",Month of year: February | Year: 2022 | IP address: ::1
+"Extract data for IP address ""192.168.1.1"" on 23 December.",Day of month: 23 | Month of year: December | IP address: 192.168.1.1
+"Find the logs on 12 March from IP address ""192.168.1.1"".",Day of month: 12 | Month of year: March | IP address: 192.168.1.1
+"List all logs related to ""api/data"" and IP ""10.0.0.1"".",IP address: 10.0.0.1 | Visited page: api/data
+"Extract data for IP address ""10.0.0.1"" on 15 November.",Day of month: 15 | Month of year: November | IP address: 10.0.0.1
+"Gather logs from 18 May with focus on ""dashboard/"".",Day of month: 18 | Month of year: May | Visited page: dashboard/
+"Search all data for ""contact"" and IP ""172.16.0.1"".",IP address: 172.16.0.1 | Visited page: contact
+"Compile logs for ""home"" accessed on 06 June.",Day of month: 06 | Month of year: June | Visited page: home
+"Get all entries related to the ""login"" page.",Visited page: login
+Find records for index.html on 26 December.,Day of month: 26 | Month of year: December | Visited page: index.html
+Find records for contact on 14 September.,Day of month: 14 | Month of year: September | Visited page: contact
+"Get all entries related to the ""dashboard/"" page.",Visited page: dashboard/
+"Find the logs on 19 March from IP address ""192.168.1.1"".",Day of month: 19 | Month of year: March | IP address: 192.168.1.1
+"Get me every data from the ""index.html"" page.",Visited page: index.html
+"Extract data for IP address ""203.0.113.5"" on 18 November.",Day of month: 18 | Month of year: November | IP address: 203.0.113.5
+"Search for records of the page ""login"" on 24 February, 2024.",Day of month: 24 | Month of year: February | Year: 2024 | Visited page: login
+"List all logs related to ""index.html"" and IP ""10.0.0.1"".",IP address: 10.0.0.1 | Visited page: index.html
+Find records for index.html on 19 March.,Day of month: 19 | Month of year: March | Visited page: index.html
+"Get every log of ""contact"" accessed on 12 November.",Day of month: 12 | Month of year: November | Visited page: contact
+"Get every log of ""contact"" accessed on 17 December.",Day of month: 17 | Month of year: December | Visited page: contact
+"Give me details of users who visited ""dashboard/"" on 10 August, 2022.",Day of month: 10 | Month of year: August | Year: 2022 | Visited page: dashboard/
+"Search for records of the page ""dashboard/"" on 27 November, 2022.",Day of month: 27 | Month of year: November | Year: 2022 | Visited page: dashboard/
+"Collect all logs from ""about"" with a specific IP: ""172.16.0.1"".",IP address: 172.16.0.1 | Visited page: about
+"Get me every data from the ""index.html"" page.",Visited page: index.html
+"What pages were visited by ""172.16.0.1"" on 20 December?",Day of month: 20 | Month of year: December | IP address: 172.16.0.1
+"Retrieve data for all users on 28 June, focusing on ""index.html"".",Day of month: 28 | Month of year: June | Visited page: index.html
+"Find the logs on 06 June from IP address ""203.0.113.5"".",Day of month: 06 | Month of year: June | IP address: 203.0.113.5
+"Search for everything from December with the page ""contact"".",Month of year: December | Visited page: contact
+"List all activities for 17 Aug with IP ""192.168.1.1"".",Day of month: 17 | Month of year: Aug | IP address: 192.168.1.1
+"Check the records for the IP ""192.168.1.1"" on 09 December.",Day of month: 09 | Month of year: December | IP address: 192.168.1.1
+"Retrieve data for all users on 11 December, focusing on ""index.html"".",Day of month: 11 | Month of year: December | Visited page: index.html
+"List all logs related to ""home"" and IP ""10.0.0.1"".",IP address: 10.0.0.1 | Visited page: home
+"Get all entries related to the ""login"" page.",Visited page: login
+"Find the logs on 27 August from IP address ""203.0.113.5"".",Day of month: 27 | Month of year: August | IP address: 203.0.113.5
+"Collect all logs from ""api/data"" with a specific IP: ""::1"".",IP address: ::1 | Visited page: api/data
+Find records for home on 21 July.,Day of month: 21 | Month of year: July | Visited page: home
+"Give me details of users who visited ""api/data"" on 10 February, 2022.",Day of month: 10 | Month of year: February | Year: 2022 | Visited page: api/data
+"Retrieve data for all users on 13 April, focusing on ""home"".",Day of month: 13 | Month of year: April | Visited page: home
+"Search for everything from February with the page ""api/data"".",Month of year: February | Visited page: api/data
+"Find all records from January 2023 related to ""contact"".",Month of year: January | Year: 2023 | Visited page: contact
+Find all entries for index.html visited on 30 November.,Day of month: 30 | Month of year: November | Visited page: index.html
+"Get all entries related to the ""login"" page.",Visited page: login
+"Look up all data for ""::1"" on the page ""contact"".",IP address: ::1 | Visited page: contact
+"Collect all logs from ""dashboard/"" with a specific IP: ""203.0.113.5"".",IP address: 203.0.113.5 | Visited page: dashboard/
+"List all logs related to ""dashboard/"" and IP ""10.0.0.1"".",IP address: 10.0.0.1 | Visited page: dashboard/
+"What pages were visited by ""172.16.0.1"" on 11 February?",Day of month: 11 | Month of year: February | IP address: 172.16.0.1
+"Look up all data for ""::1"" on the page ""api/data"".",IP address: ::1 | Visited page: api/data
+"Retrieve details for IP ""192.168.1.1"" who accessed ""login"".",IP address: 192.168.1.1 | Visited page: login
+"Fetch all records from May 2023, ensure the IP address is ""203.0.113.5""",Month of year: May | Year: 2023 | IP address: 203.0.113.5
+"List all activities for 03 Apr with IP ""10.0.0.1"".",Day of month: 03 | Month of year: Apr | IP address: 10.0.0.1
+"Show me all logs for IP ""10.0.0.1"" and page ""about"".",IP address: 10.0.0.1 | Visited page: about
+"Find all records from December 2024 related to ""dashboard/"".",Month of year: December | Year: 2024 | Visited page: dashboard/
+"List all activities for 09 Jun with IP ""172.16.0.1"".",Day of month: 09 | Month of year: Jun | IP address: 172.16.0.1
+"List all logs related to ""api/data"" and IP ""10.0.0.1"".",IP address: 10.0.0.1 | Visited page: api/data
+"Retrieve details for IP ""10.0.0.1"" who accessed ""home"".",IP address: 10.0.0.1 | Visited page: home
+"Get me every data from the ""index.html"" page.",Visited page: index.html
+Find all entries for about visited on 25 July.,Day of month: 25 | Month of year: July | Visited page: about
+"Retrieve data for all users on 05 October, focusing on ""api/data"".",Day of month: 05 | Month of year: October | Visited page: api/data
+"Show me all logs for IP ""10.0.0.1"" and page ""api/data"".",IP address: 10.0.0.1 | Visited page: api/data
+"Retrieve all user data from 02 December, with IP address: ""10.0.0.1""",Day of month: 02 | Month of year: December | IP address: 10.0.0.1
+"Extract data for IP address ""172.16.0.1"" on 14 June.",Day of month: 14 | Month of year: June | IP address: 172.16.0.1
+Find records for login on 06 January.,Day of month: 06 | Month of year: January | Visited page: login
+"Give me details of users who visited ""home"" on 08 October, 2024.",Day of month: 08 | Month of year: October | Year: 2024 | Visited page: home
+"What was accessed on 08 October from IP ""192.168.1.1""?",Day of month: 08 | Month of year: October | IP address: 192.168.1.1
+"Retrieve all user data from 09 June, with IP address: ""192.168.1.1""",Day of month: 09 | Month of year: June | IP address: 192.168.1.1
+"Retrieve data for all users on 05 September, focusing on ""dashboard/"".",Day of month: 05 | Month of year: September | Visited page: dashboard/
+Find records for dashboard/ on 12 July.,Day of month: 12 | Month of year: July | Visited page: dashboard/
+"Gather everything from Jul, ensure the visited page is ""contact""",Month of year: Jul | Visited page: contact
+"Find the logs on 11 July from IP address ""::1"".",Day of month: 11 | Month of year: July | IP address: ::1
+"Retrieve data for all users on 26 May, focusing on ""home"".",Day of month: 26 | Month of year: May | Visited page: home
+"What pages were visited by ""192.168.1.1"" on 28 February?",Day of month: 28 | Month of year: February | IP address: 192.168.1.1
+"Retrieve data for all users on 23 June, focusing on ""home"".",Day of month: 23 | Month of year: June | Visited page: home
+"Look up all data for ""172.16.0.1"" on the page ""login"".",IP address: 172.16.0.1 | Visited page: login
+Find all entries for about visited on 08 July.,Day of month: 08 | Month of year: July | Visited page: about
+"Retrieve data for all users on 11 August, focusing on ""about"".",Day of month: 11 | Month of year: August | Visited page: about
+"Gather logs from 02 July with focus on ""about"".",Day of month: 02 | Month of year: July | Visited page: about
+"Give me details of users who visited ""index.html"" on 07 November, 2023.",Day of month: 07 | Month of year: November | Year: 2023 | Visited page: index.html
+"Compile logs for ""about"" accessed on 09 September.",Day of month: 09 | Month of year: September | Visited page: about
+"Search for everything from May with the page ""index.html"".",Month of year: May | Visited page: index.html
+"Get every log of ""home"" accessed on 20 December.",Day of month: 20 | Month of year: December | Visited page: home
+"Gather everything from Dec, ensure the visited page is ""index.html""",Month of year: Dec | Visited page: index.html
+"Gather logs from 24 June with focus on ""api/data"".",Day of month: 24 | Month of year: June | Visited page: api/data
+"List all activities for 13 May with IP ""::1"".",Day of month: 13 | Month of year: May | IP address: ::1
+"Search for everything from May with the page ""home"".",Month of year: May | Visited page: home
+"Get me every data from the ""contact"" page.",Visited page: contact
+Find all entries for home visited on 24 October.,Day of month: 24 | Month of year: October | Visited page: home
+"Look up all data for ""10.0.0.1"" on the page ""home"".",IP address: 10.0.0.1 | Visited page: home
+"What activities were recorded for IP ""203.0.113.5""?",IP address: 203.0.113.5
+"Extract data for IP address ""10.0.0.1"" on 11 October.",Day of month: 11 | Month of year: October | IP address: 10.0.0.1
+"Search all data for ""home"" and IP ""172.16.0.1"".",IP address: 172.16.0.1 | Visited page: home
+"Find the logs on 06 February from IP address ""::1"".",Day of month: 06 | Month of year: February | IP address: ::1
+"Provide details of users who visited ""api/data"" on 06 April, 2023.",Day of month: 06 | Month of year: April | Year: 2023 | Visited page: api/data
+"What activities were recorded for IP ""192.168.1.1""?",IP address: 192.168.1.1
+"Search all data for ""about"" and IP ""192.168.1.1"".",IP address: 192.168.1.1 | Visited page: about
+"Get me every data from the ""contact"" page.",Visited page: contact
+"Search for everything from June with the page ""api/data"".",Month of year: June | Visited page: api/data
+"Compile logs for ""dashboard/"" accessed on 14 August.",Day of month: 14 | Month of year: August | Visited page: dashboard/
+"Search for records of the page ""index.html"" on 02 January, 2024.",Day of month: 02 | Month of year: January | Year: 2024 | Visited page: index.html
+"Get all entries related to the ""login"" page.",Visited page: login
+"Retrieve data for all users on 25 August, focusing on ""contact"".",Day of month: 25 | Month of year: August | Visited page: contact
+"Get me every data from the ""about"" page.",Visited page: about
+"Find all records from July 2024 related to ""contact"".",Month of year: July | Year: 2024 | Visited page: contact
+Find records for dashboard/ on 12 March.,Day of month: 12 | Month of year: March | Visited page: dashboard/
+"Check the records for the IP ""10.0.0.1"" on 21 April.",Day of month: 21 | Month of year: April | IP address: 10.0.0.1
+"Gather logs from 14 July with focus on ""contact"".",Day of month: 14 | Month of year: July | Visited page: contact
+"Give me details of users who visited ""dashboard/"" on 10 August, 2024.",Day of month: 10 | Month of year: August | Year: 2024 | Visited page: dashboard/
+"Extract data for IP address ""::1"" on 02 December.",Day of month: 02 | Month of year: December | IP address: ::1
+"Search all data for ""about"" and IP ""10.0.0.1"".",IP address: 10.0.0.1 | Visited page: about
+Find all entries for api/data visited on 16 July.,Day of month: 16 | Month of year: July | Visited page: api/data
+"Show me all logs for IP ""::1"" and page ""contact"".",IP address: ::1 | Visited page: contact
+"Fetch all records from July 2023, ensure the IP address is ""192.168.1.1""",Month of year: July | Year: 2023 | IP address: 192.168.1.1
+"Retrieve details for IP ""192.168.1.1"" who accessed ""contact"".",IP address: 192.168.1.1 | Visited page: contact
+"Extract data for IP address ""10.0.0.1"" on 23 April.",Day of month: 23 | Month of year: April | IP address: 10.0.0.1
+"Extract data for IP address ""203.0.113.5"" on 26 January.",Day of month: 26 | Month of year: January | IP address: 203.0.113.5
+"Search for records of the page ""index.html"" on 07 June, 2022.",Day of month: 07 | Month of year: June | Year: 2022 | Visited page: index.html
+"Gather logs from 18 March with focus on ""index.html"".",Day of month: 18 | Month of year: March | Visited page: index.html
+"Show me all logs for IP ""192.168.1.1"" and page ""login"".",IP address: 192.168.1.1 | Visited page: login
+"What activities were recorded for IP ""10.0.0.1""?",IP address: 10.0.0.1
+"Compile logs for ""api/data"" accessed on 15 August.",Day of month: 15 | Month of year: August | Visited page: api/data
+"Search for records of the page ""login"" on 05 June, 2023.",Day of month: 05 | Month of year: June | Year: 2023 | Visited page: login
+"Gather everything from Nov, ensure the visited page is ""login""",Month of year: Nov | Visited page: login
+"Check the records for the IP ""172.16.0.1"" on 02 March.",Day of month: 02 | Month of year: March | IP address: 172.16.0.1
+"Get all entries related to the ""about"" page.",Visited page: about
+"What pages were visited by ""::1"" on 16 April?",Day of month: 16 | Month of year: April | IP address: ::1
+"Search all data for ""about"" and IP ""10.0.0.1"".",IP address: 10.0.0.1 | Visited page: about
+"Get me every data from the ""home"" page.",Visited page: home
+"What activities were recorded for IP ""10.0.0.1""?",IP address: 10.0.0.1
+"Gather everything from Mar, ensure the visited page is ""api/data""",Month of year: Mar | Visited page: api/data
+"What pages were visited by ""::1"" on 16 September?",Day of month: 16 | Month of year: September | IP address: ::1
+"Find all records from June 2024 related to ""login"".",Month of year: June | Year: 2024 | Visited page: login
+"Give me details of users who visited ""contact"" on 04 May, 2022.",Day of month: 04 | Month of year: May | Year: 2022 | Visited page: contact
+"Give me details of users who visited ""home"" on 14 November, 2023.",Day of month: 14 | Month of year: November | Year: 2023 | Visited page: home
+"Gather everything from Jun, ensure the visited page is ""index.html""",Month of year: Jun | Visited page: index.html
+"Provide details of users who visited ""about"" on 29 April, 2023.",Day of month: 29 | Month of year: April | Year: 2023 | Visited page: about
+"Find all records from May 2023 related to ""dashboard/"".",Month of year: May | Year: 2023 | Visited page: dashboard/
+"Gather logs from 24 November with focus on ""index.html"".",Day of month: 24 | Month of year: November | Visited page: index.html
+"What activities were recorded for IP ""10.0.0.1""?",IP address: 10.0.0.1
+"What was accessed on 06 April from IP ""203.0.113.5""?",Day of month: 06 | Month of year: April | IP address: 203.0.113.5
+"Give me details of users who visited ""dashboard/"" on 24 May, 2023.",Day of month: 24 | Month of year: May | Year: 2023 | Visited page: dashboard/
+"Retrieve data for all users on 10 March, focusing on ""api/data"".",Day of month: 10 | Month of year: March | Visited page: api/data
+"List all activities for 30 Oct with IP ""172.16.0.1"".",Day of month: 30 | Month of year: Oct | IP address: 172.16.0.1
+"Retrieve data for all users on 11 March, focusing on ""index.html"".",Day of month: 11 | Month of year: March | Visited page: index.html
+"Collect all logs from ""api/data"" with a specific IP: ""::1"".",IP address: ::1 | Visited page: api/data
+"Check the records for the IP ""::1"" on 13 November.",Day of month: 13 | Month of year: November | IP address: ::1
+Find records for dashboard/ on 29 May.,Day of month: 29 | Month of year: May | Visited page: dashboard/
+"Gather logs from 16 September with focus on ""api/data"".",Day of month: 16 | Month of year: September | Visited page: api/data
+"What activities were recorded for IP ""172.16.0.1""?",IP address: 172.16.0.1
+"Provide details of users who visited ""index.html"" on 01 February, 2024.",Day of month: 01 | Month of year: February | Year: 2024 | Visited page: index.html
+"Provide details of users who visited ""api/data"" on 11 January, 2024.",Day of month: 11 | Month of year: January | Year: 2024 | Visited page: api/data
+"Show me all logs for IP ""10.0.0.1"" and page ""login"".",IP address: 10.0.0.1 | Visited page: login
+"Retrieve all user data from 04 May, with IP address: ""172.16.0.1""",Day of month: 04 | Month of year: May | IP address: 172.16.0.1
+Find all entries for about visited on 07 November.,Day of month: 07 | Month of year: November | Visited page: about
+"Check the records for the IP ""192.168.1.1"" on 05 October.",Day of month: 05 | Month of year: October | IP address: 192.168.1.1
+"What was accessed on 19 March from IP ""172.16.0.1""?",Day of month: 19 | Month of year: March | IP address: 172.16.0.1
+"What pages were visited by ""192.168.1.1"" on 17 July?",Day of month: 17 | Month of year: July | IP address: 192.168.1.1
+"Gather everything from Oct, ensure the visited page is ""about""",Month of year: Oct | Visited page: about
+"Retrieve all user data from 25 March, with IP address: ""10.0.0.1""",Day of month: 25 | Month of year: March | IP address: 10.0.0.1
+"Retrieve all user data from 01 June, with IP address: ""10.0.0.1""",Day of month: 01 | Month of year: June | IP address: 10.0.0.1
+"Get every log of ""index.html"" accessed on 10 August.",Day of month: 10 | Month of year: August | Visited page: index.html
+"Compile logs for ""home"" accessed on 25 October.",Day of month: 25 | Month of year: October | Visited page: home
+"What pages were visited by ""192.168.1.1"" on 03 July?",Day of month: 03 | Month of year: July | IP address: 192.168.1.1
+"Check the records for the IP ""203.0.113.5"" on 24 March.",Day of month: 24 | Month of year: March | IP address: 203.0.113.5
+"Show me all logs for IP ""::1"" and page ""about"".",IP address: ::1 | Visited page: about
+"Extract data for IP address ""172.16.0.1"" on 03 February.",Day of month: 03 | Month of year: February | IP address: 172.16.0.1
+"What activities were recorded for IP ""172.16.0.1""?",IP address: 172.16.0.1
+"Find all records from October 2022 related to ""index.html"".",Month of year: October | Year: 2022 | Visited page: index.html
+"Gather everything from Mar, ensure the visited page is ""index.html""",Month of year: Mar | Visited page: index.html
+"What was accessed on 27 June from IP ""::1""?",Day of month: 27 | Month of year: June | IP address: ::1
+"Check the records for the IP ""::1"" on 13 May.",Day of month: 13 | Month of year: May | IP address: ::1
+"Retrieve data for all users on 25 August, focusing on ""api/data"".",Day of month: 25 | Month of year: August | Visited page: api/data
+"Search for records of the page ""api/data"" on 08 February, 2023.",Day of month: 08 | Month of year: February | Year: 2023 | Visited page: api/data
+"Provide details of users who visited ""login"" on 21 September, 2023.",Day of month: 21 | Month of year: September | Year: 2023 | Visited page: login
+"Retrieve data for all users on 08 January, focusing on ""about"".",Day of month: 08 | Month of year: January | Visited page: about
+Find all entries for api/data visited on 01 July.,Day of month: 01 | Month of year: July | Visited page: api/data
+"List all activities for 21 Oct with IP ""::1"".",Day of month: 21 | Month of year: Oct | IP address: ::1
+"Extract data for IP address ""::1"" on 13 January.",Day of month: 13 | Month of year: January | IP address: ::1
+"Extract data for IP address ""172.16.0.1"" on 01 November.",Day of month: 01 | Month of year: November | IP address: 172.16.0.1
+"What activities were recorded for IP ""192.168.1.1""?",IP address: 192.168.1.1
+"Retrieve all user data from 17 July, with IP address: ""::1""",Day of month: 17 | Month of year: July | IP address: ::1
+"Get every log of ""about"" accessed on 24 December.",Day of month: 24 | Month of year: December | Visited page: about
+"Get all entries related to the ""contact"" page.",Visited page: contact
+"Retrieve details for IP ""192.168.1.1"" who accessed ""contact"".",IP address: 192.168.1.1 | Visited page: contact
+"What was accessed on 17 September from IP ""172.16.0.1""?",Day of month: 17 | Month of year: September | IP address: 172.16.0.1
+Find all entries for index.html visited on 08 July.,Day of month: 08 | Month of year: July | Visited page: index.html
+"Look up all data for ""::1"" on the page ""dashboard/"".",IP address: ::1 | Visited page: dashboard/
+"Fetch all records from September 2024, ensure the IP address is ""10.0.0.1""",Month of year: September | Year: 2024 | IP address: 10.0.0.1
+"Retrieve details for IP ""203.0.113.5"" who accessed ""about"".",IP address: 203.0.113.5 | Visited page: about
+"Retrieve all user data from 06 May, with IP address: ""203.0.113.5""",Day of month: 06 | Month of year: May | IP address: 203.0.113.5
+"Get me every data from the ""dashboard/"" page.",Visited page: dashboard/
+"Collect all logs from ""dashboard/"" with a specific IP: ""172.16.0.1"".",IP address: 172.16.0.1 | Visited page: dashboard/
+"Gather everything from Jul, ensure the visited page is ""home""",Month of year: Jul | Visited page: home
+"Collect all logs from ""home"" with a specific IP: ""::1"".",IP address: ::1 | Visited page: home
+"Get every log of ""api/data"" accessed on 30 March.",Day of month: 30 | Month of year: March | Visited page: api/data
+"Find the logs on 14 July from IP address ""203.0.113.5"".",Day of month: 14 | Month of year: July | IP address: 203.0.113.5
+"Search all data for ""home"" and IP ""192.168.1.1"".",IP address: 192.168.1.1 | Visited page: home
+"What activities were recorded for IP ""192.168.1.1""?",IP address: 192.168.1.1
+"Check the records for the IP ""192.168.1.1"" on 05 May.",Day of month: 05 | Month of year: May | IP address: 192.168.1.1
+"Provide details of users who visited ""dashboard/"" on 24 December, 2022.",Day of month: 24 | Month of year: December | Year: 2022 | Visited page: dashboard/
+"List all activities for 13 Dec with IP ""::1"".",Day of month: 13 | Month of year: Dec | IP address: ::1
+"Retrieve details for IP ""192.168.1.1"" who accessed ""login"".",IP address: 192.168.1.1 | Visited page: login
+"Get me every data from the ""about"" page.",Visited page: about
+"Gather everything from Mar, ensure the visited page is ""home""",Month of year: Mar | Visited page: home
+Find all entries for contact visited on 14 April.,Day of month: 14 | Month of year: April | Visited page: contact
+"Gather logs from 09 October with focus on ""login"".",Day of month: 09 | Month of year: October | Visited page: login
+Find all entries for index.html visited on 04 March.,Day of month: 04 | Month of year: March | Visited page: index.html
+"Retrieve all user data from 02 October, with IP address: ""192.168.1.1""",Day of month: 02 | Month of year: October | IP address: 192.168.1.1
+"Get all entries related to the ""home"" page.",Visited page: home
+"Retrieve all user data from 27 April, with IP address: ""203.0.113.5""",Day of month: 27 | Month of year: April | IP address: 203.0.113.5
+"Find the logs on 14 April from IP address ""203.0.113.5"".",Day of month: 14 | Month of year: April | IP address: 203.0.113.5
+"Retrieve data for all users on 27 March, focusing on ""api/data"".",Day of month: 27 | Month of year: March | Visited page: api/data
+"Provide details of users who visited ""contact"" on 11 March, 2023.",Day of month: 11 | Month of year: March | Year: 2023 | Visited page: contact
+"Give me details of users who visited ""dashboard/"" on 14 November, 2022.",Day of month: 14 | Month of year: November | Year: 2022 | Visited page: dashboard/
+"Retrieve details for IP ""::1"" who accessed ""login"".",IP address: ::1 | Visited page: login
+"Retrieve all user data from 10 August, with IP address: ""192.168.1.1""",Day of month: 10 | Month of year: August | IP address: 192.168.1.1
+"Show me all logs for IP ""203.0.113.5"" and page ""dashboard/"".",IP address: 203.0.113.5 | Visited page: dashboard/
+"Collect all logs from ""index.html"" with a specific IP: ""192.168.1.1"".",IP address: 192.168.1.1 | Visited page: index.html
+"List all activities for 06 Sep with IP ""10.0.0.1"".",Day of month: 06 | Month of year: Sep | IP address: 10.0.0.1
+"Fetch all records from September 2024, ensure the IP address is ""203.0.113.5""",Month of year: September | Year: 2024 | IP address: 203.0.113.5
+"Extract data for IP address ""172.16.0.1"" on 07 December.",Day of month: 07 | Month of year: December | IP address: 172.16.0.1
+"Look up all data for ""192.168.1.1"" on the page ""api/data"".",IP address: 192.168.1.1 | Visited page: api/data
+Find all entries for dashboard/ visited on 06 March.,Day of month: 06 | Month of year: March | Visited page: dashboard/
+"Get me every data from the ""about"" page.",Visited page: about
+"Fetch all records from March 2022, ensure the IP address is ""192.168.1.1""",Month of year: March | Year: 2022 | IP address: 192.168.1.1
+"Get all entries related to the ""dashboard/"" page.",Visited page: dashboard/
+"Look up all data for ""::1"" on the page ""login"".",IP address: ::1 | Visited page: login
+"Get all entries related to the ""index.html"" page.",Visited page: index.html
+"Give me details of users who visited ""about"" on 04 January, 2024.",Day of month: 04 | Month of year: January | Year: 2024 | Visited page: about
+"Fetch all records from December 2023, ensure the IP address is ""::1""",Month of year: December | Year: 2023 | IP address: ::1
+Find records for login on 22 November.,Day of month: 22 | Month of year: November | Visited page: login
+"Fetch all records from November 2023, ensure the IP address is ""192.168.1.1""",Month of year: November | Year: 2023 | IP address: 192.168.1.1
+"Fetch all records from July 2022, ensure the IP address is ""203.0.113.5""",Month of year: July | Year: 2022 | IP address: 203.0.113.5
+"Gather everything from Oct, ensure the visited page is ""dashboard/""",Month of year: Oct | Visited page: dashboard/
+"Give me details of users who visited ""about"" on 28 October, 2023.",Day of month: 28 | Month of year: October | Year: 2023 | Visited page: about
+"Retrieve details for IP ""::1"" who accessed ""home"".",IP address: ::1 | Visited page: home
+"Find all records from May 2023 related to ""api/data"".",Month of year: May | Year: 2023 | Visited page: api/data
+"What was accessed on 10 March from IP ""::1""?",Day of month: 10 | Month of year: March | IP address: ::1
+"Compile logs for ""index.html"" accessed on 08 July.",Day of month: 08 | Month of year: July | Visited page: index.html
+"Provide details of users who visited ""api/data"" on 16 March, 2023.",Day of month: 16 | Month of year: March | Year: 2023 | Visited page: api/data
+"Fetch all records from July 2023, ensure the IP address is ""172.16.0.1""",Month of year: July | Year: 2023 | IP address: 172.16.0.1
+"List all logs related to ""contact"" and IP ""203.0.113.5"".",IP address: 203.0.113.5 | Visited page: contact
+"Search all data for ""index.html"" and IP ""10.0.0.1"".",IP address: 10.0.0.1 | Visited page: index.html
+"Gather logs from 19 November with focus on ""api/data"".",Day of month: 19 | Month of year: November | Visited page: api/data
+"Search all data for ""api/data"" and IP ""::1"".",IP address: ::1 | Visited page: api/data
+"What was accessed on 09 July from IP ""203.0.113.5""?",Day of month: 09 | Month of year: July | IP address: 203.0.113.5
+"Find the logs on 24 February from IP address ""10.0.0.1"".",Day of month: 24 | Month of year: February | IP address: 10.0.0.1
+"Extract data for IP address ""::1"" on 26 February.",Day of month: 26 | Month of year: February | IP address: ::1
+"Retrieve details for IP ""203.0.113.5"" who accessed ""index.html"".",IP address: 203.0.113.5 | Visited page: index.html
+Find all entries for dashboard/ visited on 27 May.,Day of month: 27 | Month of year: May | Visited page: dashboard/
+"Search for records of the page ""api/data"" on 19 April, 2024.",Day of month: 19 | Month of year: April | Year: 2024 | Visited page: api/data
+"Show me all logs for IP ""172.16.0.1"" and page ""index.html"".",IP address: 172.16.0.1 | Visited page: index.html
+"What activities were recorded for IP ""::1""?",IP address: ::1
+"Retrieve data for all users on 22 September, focusing on ""contact"".",Day of month: 22 | Month of year: September | Visited page: contact
+"Find all records from September 2023 related to ""contact"".",Month of year: September | Year: 2023 | Visited page: contact
+"Get me every data from the ""home"" page.",Visited page: home
+"What was accessed on 09 March from IP ""::1""?",Day of month: 09 | Month of year: March | IP address: ::1
+"What activities were recorded for IP ""::1""?",IP address: ::1
+"Get me every data from the ""contact"" page.",Visited page: contact
+"Collect all logs from ""about"" with a specific IP: ""10.0.0.1"".",IP address: 10.0.0.1 | Visited page: about
+"Give me details of users who visited ""dashboard/"" on 19 October, 2023.",Day of month: 19 | Month of year: October | Year: 2023 | Visited page: dashboard/
+"Gather everything from Dec, ensure the visited page is ""home""",Month of year: Dec | Visited page: home
+"Find all records from November 2024 related to ""home"".",Month of year: November | Year: 2024 | Visited page: home
+"Show me all logs for IP ""172.16.0.1"" and page ""home"".",IP address: 172.16.0.1 | Visited page: home
+Find records for about on 04 August.,Day of month: 04 | Month of year: August | Visited page: about
+"Gather everything from May, ensure the visited page is ""api/data""",Month of year: May | Visited page: api/data
+"Compile logs for ""login"" accessed on 10 June.",Day of month: 10 | Month of year: June | Visited page: login
+"Retrieve details for IP ""203.0.113.5"" who accessed ""contact"".",IP address: 203.0.113.5 | Visited page: contact
+"Fetch all records from March 2023, ensure the IP address is ""203.0.113.5""",Month of year: March | Year: 2023 | IP address: 203.0.113.5
+"Check the records for the IP ""172.16.0.1"" on 10 March.",Day of month: 10 | Month of year: March | IP address: 172.16.0.1
+"Search all data for ""home"" and IP ""192.168.1.1"".",IP address: 192.168.1.1 | Visited page: home
+"List all activities for 23 Apr with IP ""203.0.113.5"".",Day of month: 23 | Month of year: Apr | IP address: 203.0.113.5
+"List all activities for 26 Apr with IP ""10.0.0.1"".",Day of month: 26 | Month of year: Apr | IP address: 10.0.0.1
+"Get all entries related to the ""home"" page.",Visited page: home
+"Provide details of users who visited ""contact"" on 13 November, 2022.",Day of month: 13 | Month of year: November | Year: 2022 | Visited page: contact
+"Provide details of users who visited ""index.html"" on 07 November, 2022.",Day of month: 07 | Month of year: November | Year: 2022 | Visited page: index.html
+"Gather everything from Jul, ensure the visited page is ""about""",Month of year: Jul | Visited page: about
+"Check the records for the IP ""203.0.113.5"" on 09 December.",Day of month: 09 | Month of year: December | IP address: 203.0.113.5
+"Fetch all records from October 2023, ensure the IP address is ""10.0.0.1""",Month of year: October | Year: 2023 | IP address: 10.0.0.1
+"Show me all logs for IP ""10.0.0.1"" and page ""api/data"".",IP address: 10.0.0.1 | Visited page: api/data
+"Retrieve details for IP ""203.0.113.5"" who accessed ""about"".",IP address: 203.0.113.5 | Visited page: about
+"Get every log of ""dashboard/"" accessed on 26 April.",Day of month: 26 | Month of year: April | Visited page: dashboard/
+"Find the logs on 02 October from IP address ""172.16.0.1"".",Day of month: 02 | Month of year: October | IP address: 172.16.0.1
+"List all activities for 11 Mar with IP ""192.168.1.1"".",Day of month: 11 | Month of year: Mar | IP address: 192.168.1.1
+"Get every log of ""api/data"" accessed on 26 January.",Day of month: 26 | Month of year: January | Visited page: api/data
+"Get every log of ""home"" accessed on 30 November.",Day of month: 30 | Month of year: November | Visited page: home
+"Look up activities on 27 October 2022 for the page ""index.html"".",Day of month: 27 | Month of year: October | Year: 2022 | Visited page: index.html
+"What was accessed on 21 June from IP ""10.0.0.1""?",Day of month: 21 | Month of year: June | IP address: 10.0.0.1
+"Show me all logs for IP ""172.16.0.1"" and page ""login"".",IP address: 172.16.0.1 | Visited page: login
+"Search all data for ""home"" and IP ""172.16.0.1"".",IP address: 172.16.0.1 | Visited page: home
+"Get all entries related to the ""login"" page.",Visited page: login
+"Search all data for ""contact"" and IP ""203.0.113.5"".",IP address: 203.0.113.5 | Visited page: contact
+"Search all data for ""index.html"" and IP ""192.168.1.1"".",IP address: 192.168.1.1 | Visited page: index.html
+"Find the logs on 15 March from IP address ""203.0.113.5"".",Day of month: 15 | Month of year: March | IP address: 203.0.113.5
+"Give me details of users who visited ""contact"" on 14 August, 2024.",Day of month: 14 | Month of year: August | Year: 2024 | Visited page: contact
+"Find the logs on 10 November from IP address ""10.0.0.1"".",Day of month: 10 | Month of year: November | IP address: 10.0.0.1
+"Look up all data for ""172.16.0.1"" on the page ""index.html"".",IP address: 172.16.0.1 | Visited page: index.html
+"Compile logs for ""home"" accessed on 04 July.",Day of month: 04 | Month of year: July | Visited page: home
+"Check the records for the IP ""172.16.0.1"" on 04 December.",Day of month: 04 | Month of year: December | IP address: 172.16.0.1
+"Find the logs on 03 June from IP address ""10.0.0.1"".",Day of month: 03 | Month of year: June | IP address: 10.0.0.1
+"Look up all data for ""172.16.0.1"" on the page ""index.html"".",IP address: 172.16.0.1 | Visited page: index.html
+"Give me details of users who visited ""about"" on 11 June, 2022.",Day of month: 11 | Month of year: June | Year: 2022 | Visited page: about
+"Find all records from August 2023 related to ""dashboard/"".",Month of year: August | Year: 2023 | Visited page: dashboard/
+"Check the records for the IP ""::1"" on 28 July.",Day of month: 28 | Month of year: July | IP address: ::1
+"List all logs related to ""home"" and IP ""172.16.0.1"".",IP address: 172.16.0.1 | Visited page: home
+"Retrieve data for all users on 18 March, focusing on ""login"".",Day of month: 18 | Month of year: March | Visited page: login
+"List all activities for 03 Oct with IP ""192.168.1.1"".",Day of month: 03 | Month of year: Oct | IP address: 192.168.1.1
+"Look up all data for ""192.168.1.1"" on the page ""login"".",IP address: 192.168.1.1 | Visited page: login
+Find all entries for api/data visited on 16 April.,Day of month: 16 | Month of year: April | Visited page: api/data
+"Retrieve data for all users on 23 February, focusing on ""about"".",Day of month: 23 | Month of year: February | Visited page: about
+"What activities were recorded for IP ""::1""?",IP address: ::1
+"Compile logs for ""about"" accessed on 30 February.",Day of month: 30 | Month of year: February | Visited page: about
+"Gather everything from May, ensure the visited page is ""home""",Month of year: May | Visited page: home
+Find all entries for api/data visited on 11 April.,Day of month: 11 | Month of year: April | Visited page: api/data
+"Get all entries related to the ""login"" page.",Visited page: login
+Find records for login on 15 October.,Day of month: 15 | Month of year: October | Visited page: login
+"Look up all data for ""203.0.113.5"" on the page ""about"".",IP address: 203.0.113.5 | Visited page: about
+"What was accessed on 28 April from IP ""192.168.1.1""?",Day of month: 28 | Month of year: April | IP address: 192.168.1.1
+"Check the records for the IP ""172.16.0.1"" on 17 August.",Day of month: 17 | Month of year: August | IP address: 172.16.0.1
+"Provide details of users who visited ""home"" on 19 December, 2024.",Day of month: 19 | Month of year: December | Year: 2024 | Visited page: home
+"Search for everything from December with the page ""login"".",Month of year: December | Visited page: login
+"Gather logs from 06 February with focus on ""dashboard/"".",Day of month: 06 | Month of year: February | Visited page: dashboard/
+"Find all records from March 2023 related to ""login"".",Month of year: March | Year: 2023 | Visited page: login
+"Get me every data from the ""index.html"" page.",Visited page: index.html
+"Find the logs on 25 March from IP address ""203.0.113.5"".",Day of month: 25 | Month of year: March | IP address: 203.0.113.5
+"Search all data for ""dashboard/"" and IP ""172.16.0.1"".",IP address: 172.16.0.1 | Visited page: dashboard/
+"Get me every data from the ""about"" page.",Visited page: about
+"Get all entries related to the ""api/data"" page.",Visited page: api/data
+"Look up activities on 09 December 2023 for the page ""api/data"".",Day of month: 09 | Month of year: December | Year: 2023 | Visited page: api/data
+Find all entries for home visited on 14 March.,Day of month: 14 | Month of year: March | Visited page: home
+Find all entries for about visited on 23 December.,Day of month: 23 | Month of year: December | Visited page: about
+"Fetch all records from February 2023, ensure the IP address is ""::1""",Month of year: February | Year: 2023 | IP address: ::1
+"What pages were visited by ""192.168.1.1"" on 09 March?",Day of month: 09 | Month of year: March | IP address: 192.168.1.1
+"Get all entries related to the ""login"" page.",Visited page: login
+"Look up all data for ""::1"" on the page ""api/data"".",IP address: ::1 | Visited page: api/data
+"Give me details of users who visited ""contact"" on 11 January, 2023.",Day of month: 11 | Month of year: January | Year: 2023 | Visited page: contact
+"Search all data for ""contact"" and IP ""10.0.0.1"".",IP address: 10.0.0.1 | Visited page: contact
+"Find the logs on 11 October from IP address ""172.16.0.1"".",Day of month: 11 | Month of year: October | IP address: 172.16.0.1
+"Retrieve details for IP ""192.168.1.1"" who accessed ""about"".",IP address: 192.168.1.1 | Visited page: about
+Find all entries for api/data visited on 20 April.,Day of month: 20 | Month of year: April | Visited page: api/data
+"Get me every data from the ""api/data"" page.",Visited page: api/data
+"Retrieve details for IP ""192.168.1.1"" who accessed ""about"".",IP address: 192.168.1.1 | Visited page: about
+"Find all records from February 2022 related to ""dashboard/"".",Month of year: February | Year: 2022 | Visited page: dashboard/
+"Retrieve details for IP ""10.0.0.1"" who accessed ""api/data"".",IP address: 10.0.0.1 | Visited page: api/data
+"Collect all logs from ""contact"" with a specific IP: ""203.0.113.5"".",IP address: 203.0.113.5 | Visited page: contact
+"Look up all data for ""203.0.113.5"" on the page ""home"".",IP address: 203.0.113.5 | Visited page: home
+"List all activities for 03 Dec with IP ""10.0.0.1"".",Day of month: 03 | Month of year: Dec | IP address: 10.0.0.1
+Find all entries for about visited on 20 July.,Day of month: 20 | Month of year: July | Visited page: about
+"Search for everything from June with the page ""login"".",Month of year: June | Visited page: login
+"What activities were recorded for IP ""192.168.1.1""?",IP address: 192.168.1.1
+"Compile logs for ""dashboard/"" accessed on 03 September.",Day of month: 03 | Month of year: September | Visited page: dashboard/
+"Extract data for IP address ""192.168.1.1"" on 02 July.",Day of month: 02 | Month of year: July | IP address: 192.168.1.1
+"Find all records from December 2022 related to ""api/data"".",Month of year: December | Year: 2022 | Visited page: api/data
+"Retrieve details for IP ""203.0.113.5"" who accessed ""dashboard/"".",IP address: 203.0.113.5 | Visited page: dashboard/
+"Provide details of users who visited ""api/data"" on 24 October, 2022.",Day of month: 24 | Month of year: October | Year: 2022 | Visited page: api/data
+"Search for everything from March with the page ""home"".",Month of year: March | Visited page: home
+"Check the records for the IP ""192.168.1.1"" on 22 March.",Day of month: 22 | Month of year: March | IP address: 192.168.1.1
+"Get every log of ""login"" accessed on 17 June.",Day of month: 17 | Month of year: June | Visited page: login
+"Search for everything from November with the page ""dashboard/"".",Month of year: November | Visited page: dashboard/
+"Retrieve details for IP ""192.168.1.1"" who accessed ""contact"".",IP address: 192.168.1.1 | Visited page: contact
+"Get all entries related to the ""index.html"" page.",Visited page: index.html
+"What activities were recorded for IP ""10.0.0.1""?",IP address: 10.0.0.1
+"What was accessed on 19 December from IP ""203.0.113.5""?",Day of month: 19 | Month of year: December | IP address: 203.0.113.5
+"Provide details of users who visited ""about"" on 15 April, 2022.",Day of month: 15 | Month of year: April | Year: 2022 | Visited page: about
+"Search all data for ""dashboard/"" and IP ""203.0.113.5"".",IP address: 203.0.113.5 | Visited page: dashboard/
+"Provide details of users who visited ""home"" on 22 June, 2024.",Day of month: 22 | Month of year: June | Year: 2024 | Visited page: home
+"Give me details of users who visited ""about"" on 07 February, 2023.",Day of month: 07 | Month of year: February | Year: 2023 | Visited page: about
+"Get all entries related to the ""index.html"" page.",Visited page: index.html
+"List all activities for 17 Oct with IP ""10.0.0.1"".",Day of month: 17 | Month of year: Oct | IP address: 10.0.0.1
+"What pages were visited by ""::1"" on 21 March?",Day of month: 21 | Month of year: March | IP address: ::1
+"Retrieve data for all users on 15 June, focusing on ""contact"".",Day of month: 15 | Month of year: June | Visited page: contact
+"Find all records from June 2023 related to ""home"".",Month of year: June | Year: 2023 | Visited page: home
+"Extract data for IP address ""10.0.0.1"" on 06 September.",Day of month: 06 | Month of year: September | IP address: 10.0.0.1
+"Retrieve all user data from 06 September, with IP address: ""172.16.0.1""",Day of month: 06 | Month of year: September | IP address: 172.16.0.1
+"Give me details of users who visited ""login"" on 28 November, 2022.",Day of month: 28 | Month of year: November | Year: 2022 | Visited page: login
+"What activities were recorded for IP ""::1""?",IP address: ::1
+"What was accessed on 01 January from IP ""203.0.113.5""?",Day of month: 01 | Month of year: January | IP address: 203.0.113.5
+"List all activities for 17 Dec with IP ""203.0.113.5"".",Day of month: 17 | Month of year: Dec | IP address: 203.0.113.5
+"Get every log of ""index.html"" accessed on 04 December.",Day of month: 04 | Month of year: December | Visited page: index.html
+"Collect all logs from ""contact"" with a specific IP: ""::1"".",IP address: ::1 | Visited page: contact
+"Provide details of users who visited ""login"" on 15 December, 2023.",Day of month: 15 | Month of year: December | Year: 2023 | Visited page: login
+"Retrieve data for all users on 14 September, focusing on ""home"".",Day of month: 14 | Month of year: September | Visited page: home
+"Gather everything from Sep, ensure the visited page is ""home""",Month of year: Sep | Visited page: home
+"Collect all logs from ""index.html"" with a specific IP: ""203.0.113.5"".",IP address: 203.0.113.5 | Visited page: index.html
+"Gather logs from 19 April with focus on ""index.html"".",Day of month: 19 | Month of year: April | Visited page: index.html
+"Search for everything from November with the page ""api/data"".",Month of year: November | Visited page: api/data
+"Retrieve data for all users on 27 April, focusing on ""home"".",Day of month: 27 | Month of year: April | Visited page: home
+"Provide details of users who visited ""dashboard/"" on 06 August, 2023.",Day of month: 06 | Month of year: August | Year: 2023 | Visited page: dashboard/
+"Get all entries related to the ""contact"" page.",Visited page: contact
+"What was accessed on 25 January from IP ""172.16.0.1""?",Day of month: 25 | Month of year: January | IP address: 172.16.0.1
+"Provide details of users who visited ""login"" on 16 December, 2022.",Day of month: 16 | Month of year: December | Year: 2022 | Visited page: login
+"Compile logs for ""login"" accessed on 04 November.",Day of month: 04 | Month of year: November | Visited page: login
+"List all activities for 13 Jul with IP ""172.16.0.1"".",Day of month: 13 | Month of year: Jul | IP address: 172.16.0.1
+"Find the logs on 09 July from IP address ""192.168.1.1"".",Day of month: 09 | Month of year: July | IP address: 192.168.1.1
+"Search for records of the page ""api/data"" on 01 July, 2023.",Day of month: 01 | Month of year: July | Year: 2023 | Visited page: api/data
+"What activities were recorded for IP ""203.0.113.5""?",IP address: 203.0.113.5
+"What pages were visited by ""172.16.0.1"" on 24 September?",Day of month: 24 | Month of year: September | IP address: 172.16.0.1
+"Gather logs from 06 September with focus on ""dashboard/"".",Day of month: 06 | Month of year: September | Visited page: dashboard/
+"Provide details of users who visited ""contact"" on 20 November, 2023.",Day of month: 20 | Month of year: November | Year: 2023 | Visited page: contact
+"Fetch all records from December 2023, ensure the IP address is ""10.0.0.1""",Month of year: December | Year: 2023 | IP address: 10.0.0.1
+Find all entries for api/data visited on 11 September.,Day of month: 11 | Month of year: September | Visited page: api/data
+"Gather everything from Nov, ensure the visited page is ""home""",Month of year: Nov | Visited page: home
+Find all entries for api/data visited on 11 January.,Day of month: 11 | Month of year: January | Visited page: api/data
+"What pages were visited by ""10.0.0.1"" on 28 October?",Day of month: 28 | Month of year: October | IP address: 10.0.0.1
+"Check the records for the IP ""203.0.113.5"" on 18 September.",Day of month: 18 | Month of year: September | IP address: 203.0.113.5
+"Fetch all records from November 2023, ensure the IP address is ""10.0.0.1""",Month of year: November | Year: 2023 | IP address: 10.0.0.1
+"Gather logs from 02 March with focus on ""api/data"".",Day of month: 02 | Month of year: March | Visited page: api/data
+"Search for records of the page ""login"" on 16 March, 2024.",Day of month: 16 | Month of year: March | Year: 2024 | Visited page: login
+"List all activities for 27 Nov with IP ""10.0.0.1"".",Day of month: 27 | Month of year: Nov | IP address: 10.0.0.1
+"Get all entries related to the ""contact"" page.",Visited page: contact
+"Get every log of ""dashboard/"" accessed on 27 April.",Day of month: 27 | Month of year: April | Visited page: dashboard/
+"Get all entries related to the ""api/data"" page.",Visited page: api/data
+"List all logs related to ""about"" and IP ""203.0.113.5"".",IP address: 203.0.113.5 | Visited page: about
+"Gather everything from Feb, ensure the visited page is ""login""",Month of year: Feb | Visited page: login
+"Search for records of the page ""about"" on 22 April, 2022.",Day of month: 22 | Month of year: April | Year: 2022 | Visited page: about
+"Get me every data from the ""about"" page.",Visited page: about
+"Retrieve all user data from 05 May, with IP address: ""172.16.0.1""",Day of month: 05 | Month of year: May | IP address: 172.16.0.1
+"Look up all data for ""10.0.0.1"" on the page ""dashboard/"".",IP address: 10.0.0.1 | Visited page: dashboard/
+"Fetch all records from December 2023, ensure the IP address is ""10.0.0.1""",Month of year: December | Year: 2023 | IP address: 10.0.0.1
+"Compile logs for ""api/data"" accessed on 19 December.",Day of month: 19 | Month of year: December | Visited page: api/data
+"Retrieve all user data from 25 June, with IP address: ""172.16.0.1""",Day of month: 25 | Month of year: June | IP address: 172.16.0.1
+"Collect all logs from ""api/data"" with a specific IP: ""10.0.0.1"".",IP address: 10.0.0.1 | Visited page: api/data
+"List all logs related to ""dashboard/"" and IP ""172.16.0.1"".",IP address: 172.16.0.1 | Visited page: dashboard/
+"Check the records for the IP ""203.0.113.5"" on 16 February.",Day of month: 16 | Month of year: February | IP address: 203.0.113.5
+"Retrieve data for all users on 16 July, focusing on ""home"".",Day of month: 16 | Month of year: July | Visited page: home
+"Search all data for ""contact"" and IP ""::1"".",IP address: ::1 | Visited page: contact
+"Look up activities on 13 August 2023 for the page ""about"".",Day of month: 13 | Month of year: August | Year: 2023 | Visited page: about
+"Search all data for ""home"" and IP ""::1"".",IP address: ::1 | Visited page: home
+"Find the logs on 27 March from IP address ""192.168.1.1"".",Day of month: 27 | Month of year: March | IP address: 192.168.1.1
+"Retrieve details for IP ""192.168.1.1"" who accessed ""contact"".",IP address: 192.168.1.1 | Visited page: contact
+"What was accessed on 29 September from IP ""203.0.113.5""?",Day of month: 29 | Month of year: September | IP address: 203.0.113.5
+"Get me every data from the ""index.html"" page.",Visited page: index.html
+"Extract data for IP address ""203.0.113.5"" on 15 September.",Day of month: 15 | Month of year: September | IP address: 203.0.113.5
