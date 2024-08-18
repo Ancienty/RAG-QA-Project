@@ -1,3 +1,12 @@
+#
+#
+# BU DOSYA, PROJEDE AKTİF OLARAK KULLANILMAMAKTADIR
+# YALNIZCA FAILED METHODS KISMINDAKİ T5 FINE-TUNING İŞLEMİNDE
+# NE YAPTIĞIMI DAHA İYİ ANLATABİLMEK ADINA
+# REPOSITORYE EKLENMİŞTİR.
+#
+#
+
 import csv
 from transformers import T5ForConditionalGeneration, T5Tokenizer, Trainer, TrainingArguments, DataCollatorForSeq2Seq
 from datasets import Dataset
@@ -44,12 +53,12 @@ class T5Trainer:
             evaluation_strategy="no",
             learning_rate=2e-5,
             per_device_train_batch_size=24,
-            num_train_epochs=num_train_epochs,  # Increase number of epochs
+            num_train_epochs=num_train_epochs,
             weight_decay=0.01,
             fp16=True,
             gradient_accumulation_steps=1,
             dataloader_num_workers=4,
-            logging_steps=10,  # Log more frequently for debugging
+            logging_steps=10,
             save_steps=10000,
             report_to="none",
         )
